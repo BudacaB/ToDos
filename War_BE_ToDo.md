@@ -35,3 +35,8 @@ For each card change to random position in deck
 02 December 2018: 
   - 1 BACKEND: create a method dealCards(howMany) 
   - BACKEND+FRONTEND implement start game mechanism (socket.io for communication between 2 browsers thru backend)
+  
+  incepem backendu in c# (c sharp) pt game rules
+- primii pasi in c#
+- cream regulile pt war game in rules BE (BackEnd)
+- combinam BEurile, le chemam intre ele , in asa fel incat un request din frontend sa treaca prin amandoua
