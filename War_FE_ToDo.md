@@ -12,3 +12,4 @@
   - 1 FRONTEND: create a component <active-game> where you display two players and their cards
   - 2 FRONTEND modify home component to show: if a gamee is started: "active-game" component. if a game is not started: "begin-game" component
   - BACKEND+FRONTEND implement start game mechanism (socket.io for communication between 2 browsers thru backend)
+  - Replace hardcoded "Writing stuff" message with text input - input tag and using send() hand over to the server -> chat between players -  https://angular.io/guide/user-input
