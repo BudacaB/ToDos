@@ -47,3 +47,6 @@ For each card change to random position in deck
 1. Make a method that receives your name as parameter and returns an array with every letter of the given name.
 2. Make a class with properties letter (as string) and position (as int)
 3. Make a method similar to ex 1, that returns an array with objects of type from the ex2 class, that contains every letter and position in array.
+4. To understand 'compiled / compiling' you can inspect the .dll/.exe file after compiling - using tool called 'ildasm'
+   - Installed here with Visual Studio - C:\Program Files (x86)\Microsoft SDKs\Windows - ildasm.exe
+   - https://www.youtube.com/watch?v=D_1Op4TBM-Y
