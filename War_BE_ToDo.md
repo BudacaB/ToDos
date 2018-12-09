@@ -40,3 +40,10 @@ For each card change to random position in deck
 - primii pasi in c#
 - cream regulile pt war game in rules BE (BackEnd)
 - combinam BEurile, le chemam intre ele , in asa fel incat un request din frontend sa treaca prin amandoua
+
+-----
+9Dec 2018:
+
+1. Make a method that receives your name as parameter and returns an array with every letter of the given name.
+2. Make a class with properties letter (as string) and position (as int)
+3. Make a method similar to ex 1, that returns an array with objects of type from the ex2 class, that contains every letter and position in array.
