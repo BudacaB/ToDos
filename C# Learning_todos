@@ -1,0 +1,3 @@
+1. Modify program so that instead of the console.writeline, all the objects must be written in a text file -> txt file called as inputted value
+  - file content is letter and position as before
+  - Look up how to write files in C# for console apps
