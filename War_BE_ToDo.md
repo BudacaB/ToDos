@@ -16,8 +16,13 @@ Rules (User story):
 -----
 1.1 Start with shuffled deck -> split in 2 for each player
 	- API endpoint to request cards (1/2 deck for said player)
-1.2 After playing cards -> send 2 cards to API and get response as JSON -> 2 properties - winner hand & reason
+1.2 After playing cards -> send 2 cards to API and get response as JSON -> 2 properties - winner card & reason
 
+Homework:
+
+1. Finish the method to compare cards in the service WarRulesService. 
+	E.g.: Compare 2 with 3 => CompareResult with properties WinnerCard as the full card object which won the comparison, 		Reason string: "Higher card".
+	Acceptance test: When I call from ARC I should received the above CompareResult as response object ^.
 
 ========
 
