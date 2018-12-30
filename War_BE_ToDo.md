@@ -13,6 +13,13 @@ Rules (User story):
 5. Who has the highest face up takes everything
 6. Continue game
 7. Game ends when one player has all cards - is declared winner
+-----
+1.1 Start with shuffled deck -> split in 2 for each player
+	- API endpoint to request cards (1/2 deck for said player)
+1.2 After playing cards -> send 2 cards to API and get response as JSON -> 2 properties - winner hand & reason
+
+
+========
 
 BE:
 1.1 new method shuffleDeck
