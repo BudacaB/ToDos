@@ -28,3 +28,9 @@ We go deeper into apis
 	- Splitting of concerns/logic
 
 - Going deeper into 'Serverless'
+
+
+30Dec:
+- Music API - discogs - React
+- War Game - dynamic API
+- Massive App - collab - Andrei private repo -> working as dev env
