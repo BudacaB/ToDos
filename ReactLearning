@@ -2,3 +2,7 @@
 2. (Start first React app - external API - https://www.discogs.com/developers/ -> fetch data and manipulate)
 3. Udemy -> reach section 6 inclusive
 
+4. One more React app - D3 chars - seeing own char/hero from game
+  - using Blizzard APIs https://develop.battle.net/documentation/api-reference/diablo-3-community-api
+  - favorite chars as visible list somewhere in page
+
