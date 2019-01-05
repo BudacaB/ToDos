@@ -22,7 +22,7 @@ Homework:
 
 1. Finish the method to compare cards in the service WarRulesService. 
 	E.g.: Compare 2 with 3 => CompareResult with properties WinnerCard as the full card object which won the comparison, 		Reason string: "Higher card".
-	Acceptance test: When I call from ARC I should received the above CompareResult as response object ^.
+	Acceptance test: When I call from ARC I should receive the above CompareResult as response object ^.
 
 ========
 
