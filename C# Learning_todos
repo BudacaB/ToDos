@@ -3,3 +3,9 @@ txt file called as inputted value
   - file content is letter and position as before
   - Look up how to write files in C# for console apps
 Done
+
+2. C# password protector app with win installer - encryption / decryption - rijndael algorithm
+       - learn basics of encryption
+       - learn classes
+       - store user passwords encrypted on local
+       - could be used on .net for the future through dll
