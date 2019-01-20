@@ -3,3 +3,4 @@
 3. Change title from "my first site" to "Bogdan Budaca" or similar (one that appers on chrome tab)
 4. Add to github and link to main site - main ideas/notes/takeaways from Sahami's course
 5. Main site header html can be used as AWS API to be called in each app in a header component
+6. Another app - react course pics app in table on homepage, link in header navbar, new subdomain, etc. showcase your work!
