@@ -9,3 +9,38 @@ Done
        - learn classes
        - store user passwords encrypted on local
        - could be used on .net for the future through dll
+            
+3. Remind sensei about interfaces intro.
+
+4. Bonus points:
+Targetpractice.cs has a method called TakeDamage
+Said methods does multiple things, at the moment contains the logic to decrease health, which is the right thing to do, 
+but its also the ONLY thing that this function should do.
+The rest of the code, like the thing with 'find canvas', etc, etc - should be moved to a class called NotifyUI , 
+which should have methods called like: SendDamageTakenMessage(string message), 
+SendRemainingHealthMessage(string message), etc etc,....and then TakeDamage would look only like:
+
+ internal void TakeDamage(int incomingDamage)
+{
+// ...do stuff to update this.Health....
+notificatorUI.SendDamageTakenMessage(calculatedDamgage);
+
+notificatorUI.SendRemainingHealthMessage(this.ToString())
+}
+
+... etc etc
+internal void TakeDamage(int incomingDamage)
+{
+// ...do stuff to update this.Health....
+this.Health = ...blabla
+
+notificatorUI.SendDamageTakenMessage(calculatedDamgage);
+notificatorUI.SendRemainingHealthMessage(this.ToString())
+...other notifications sent to UI... etc
+}
+
+5. Also, we need to turn the damage from an integer, into a random value from a - b. 
+E.g, the sword doesn't have only 50 damage, but a range between 50-80. How do you make the computer pick a random, etc.
+
+Here we could introduce augment runes which provide a chance of critical strike - double dmg
+
