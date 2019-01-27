@@ -44,3 +44,5 @@ E.g, the sword doesn't have only 50 damage, but a range between 50-80. How do yo
 
 Here we could introduce augment runes which provide a chance of critical strike - double dmg
 
+6. Rename WeaponClass to WeaponRarity
+
