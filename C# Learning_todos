@@ -39,6 +39,11 @@ notificatorUI.SendRemainingHealthMessage(this.ToString())
 ...other notifications sent to UI... etc
 }
 
+-----------------------
+
+in NotifyUI, getting an object reference is request for the non static object la FadeTextToZeroAlpha 
+si daca fac public static IEnumerator FadeTextToZeroAlpha(float t, TextMeshProUGUI i) eroare se muta la StartCoroutine
+
 5. Also, we need to turn the damage from an integer, into a random value from a - b. 
 E.g, the sword doesn't have only 50 damage, but a range between 50-80. How do you make the computer pick a random, etc.
 
