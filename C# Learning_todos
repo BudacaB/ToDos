@@ -72,5 +72,5 @@ new Sword()
 new Pistol()
 new Cannon()
 ... blablabla
-ca la vremea aia nu facusem interfaces, si trebuia cumva sa diferentiem ce tip de arma e. si am zis, ok atunci bagam un enum parameter care face differenta
-but its an ugly hack.
+ca la vremea aia nu facusem interfaces, si trebuia cumva sa diferentiem ce tip de arma e. si am zis, 
+ok atunci bagam un enum parameter care face differenta, but its an ugly hack.
