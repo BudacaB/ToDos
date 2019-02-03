@@ -52,3 +52,25 @@ Here we could introduce augment runes which provide a chance of critical strike 
 6. Rename WeaponClass to WeaponRarity - Done
 
 7. Describe what we went over today 3Feb
+
+8. Un fun homework pt interfaces poate fi:
+daca tineti minte, in shooting game logic, aia cu augmentele and shit am folosit un truc ca sa putem crea weapons 
+de tipuri diferite - am diferentiat weapon dupa un parameter de tip ENUM, 
+care dicta ce weapon type este. Asta pt ca lista era de genu List<Weapon> 
+(si gen era fix cu aveam azi doar List<Car>, deci accepta uin singur tip de obiect).
+
+Dar ca homewokr puteti elimina necesitatea de a transmite tipu de weapon la constructor call ; sa nu mai fie 
+var sword = new Weapon(type.Sword, "sword"), 
+...ci sa fie: 
+var sword = new Sword();
+
+si lista sa nu contina 
+weaponList = new List<Weapon>(), ci sa contina precum azi, o lista de BEHAVIORS, 
+deci o lista de interfaces. Astfel incat in lista aia sa pot adauga: 
+
+new Sword()
+new Pistol()
+new Cannon()
+... blablabla
+ca la vremea aia nu facusem interfaces, si trebuia cumva sa diferentiem ce tip de arma e. si am zis, ok atunci bagam un enum parameter care face differenta
+but its an ugly hack.
