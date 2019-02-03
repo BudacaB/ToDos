@@ -5,3 +5,4 @@
 5. Main site header html can be used as AWS API to be called in each app in a header component
 6. Another app - react course pics app in table on homepage, link in header navbar, new subdomain, etc. showcase your work!
 7. Fix - fontawesome / move footer to separate component / fix title line
+8. Add to apps and description - 'Made with C#' - link to github repo
