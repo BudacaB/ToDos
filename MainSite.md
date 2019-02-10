@@ -7,7 +7,7 @@
 7. Fix - fontawesome / move footer to separate component / fix title line
 8. Add to apps and description - 'Made with C#' - link to github repo
 
------
+-------------
 la aia cu c# adauga niste detalii despre ce ai invatat la c#, cat mai multe. ai invatat despre interfaces si https://en.wikipedia.org/wiki/Interface_segregation_principle - how to apply this principle in a c# study case (vehicles); c# constructors, properties, classes, static vs instance methods , etc
 
 de asemenea i would make the links in header open in new tab (theres a way to configure the anchor link to do that). asta pt ca vrei ca lumea sa ramana pe portfolio website, si apps noi sa se deschida in new tab
@@ -16,5 +16,20 @@ de asemenea ai invatat cum sa fol visual studo, build, add projects of various t
 
 i would align description cell to left, name too, text-align left pe td
 
-------
+--------------
+1. To add on main site C# learning info
 
+2. 2 buttons under title - toggle table of theory and table of apps
+
+3. Theory:
+(for specific topic you can use):
+Example here:
+https://github.com/BudacaB/C_sharp_learning/blob/master/Interface_tests/Tests/Program.cs
+
+sa scrii pe homepage la theory si despre cum poti extinde o base class care implementeaza interfete (si dai link la fix aia cu baseweapon.cs sau ce am facut acolo)
+
+aia se numeste inheritance si e unu din conceptele de baza ale programarii orientate obiect
+
+https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
+
+-------------
