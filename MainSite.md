@@ -32,6 +32,10 @@ aia se numeste inheritance si e unu din conceptele de baza ale programarii orien
 
 https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
 
+4. descrierea pe home website la faza cu interfaces segregation, la theory acolo. Cu link catre repoul din github unde is puse c# interface tests. Alea de am exersat acu 2 sapt parca si aveam o tona de interfaces
+
+5. Link si la fisieru ala cu weapon si augments din unity proiect  si etc,  sa se vada si acolo ca poti concepe interfaces. Plus descrierea a ce se intampla acolo, armele is augmentable which means gjey get a list of iaugment behaviors etc.
+
 -------------
 
 De adaugat o categ la main homepage numita AWS, unde scrii tot ce ai invatat despre aws pana acum, toate serviciile folosite acolo so far. o sa facem si aia cu injected header served by aws si atunci o sa poti adauga pe lista de aws skills si api gateway. si cand facem DBuri o sa poti pune si dynamodb
