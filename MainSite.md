@@ -33,3 +33,7 @@ aia se numeste inheritance si e unu din conceptele de baza ale programarii orien
 https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
 
 -------------
+
+De adaugat o categ la main homepage numita AWS, unde scrii tot ce ai invatat despre aws pana acum, toate serviciile folosite acolo so far. o sa facem si aia cu injected header served by aws si atunci o sa poti adauga pe lista de aws skills si api gateway. si cand facem DBuri o sa poti pune si dynamodb
+
+-------------
