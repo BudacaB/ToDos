@@ -41,3 +41,18 @@ https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
 De adaugat o categ la main homepage numita AWS, unde scrii tot ce ai invatat despre aws pana acum, toate serviciile folosite acolo so far. o sa facem si aia cu injected header served by aws si atunci o sa poti adauga pe lista de aws skills si api gateway. si cand facem DBuri o sa poti pune si dynamodb
 
 -------------
+
+- Tweak colors for all sites to same palette -  all. backgfround, text color, buttons header, everything
+    - https://colorhunt.co/
+
+- Replace title with 'about me' / contact section - phone, mail, linkedin, personal site, top skills, languages
+    - angular material - https://material.angular.io/components/card/examples
+    
+- Must always have container
+    - every visual row must be inside a div row // rows and cols
+    
+- Table can be replaced with a tree component - https://material.angular.io/components/tree/overview
+    - expanding // again bootstrap rows and cols
+    
+-------------
+
