@@ -34,3 +34,13 @@ We go deeper into apis
 - Music API - discogs - React
 - War Game - dynamic API
 - Massive App - collab - Andrei private repo -> working as dev env
+
+--------------------------
+
+For next session:
+
+- Remind sensei about C# object comparison implementation
+
+- Console app cu conectare pe local dynamodb
+	- CRUD operations,  what are those,  how to
+	- Connect with C#
