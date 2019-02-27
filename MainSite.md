@@ -54,5 +54,9 @@ De adaugat o categ la main homepage numita AWS, unde scrii tot ce ai invatat des
 - Table can be replaced with a tree component - https://material.angular.io/components/tree/overview
     - expanding // again bootstrap rows and cols
     
+- Further skills to add once practiced - devops - docker / dynamodb / aws cli (deploy site to S3 with cli)
+
+- Also consolidate and add theory from Sahami's course
+    
 -------------
 
