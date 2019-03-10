@@ -63,6 +63,8 @@ De adaugat o categ la main homepage numita AWS, unde scrii tot ce ai invatat des
 - Further skills to add once practiced - devops - docker / dynamodb / aws cli (deploy site to S3 with cli)
 
 - Also consolidate and add theory from Sahami's course
+
+- css class on chevron arrows: cursor: pointer
     
 -------------
 
