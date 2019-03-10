@@ -76,3 +76,14 @@ ca la vremea aia nu facusem interfaces, si trebuia cumva sa diferentiem ce tip d
 ok atunci bagam un enum parameter care face differenta, but its an ugly hack.
 
 9. Remind sensei about c# object comparison implementation
+
+================================================================
+
+Win Forms app
+
+Car - add color, cylinder number (min 1 / max...)
+	- create a class BMW and a class Audi which inherit from Car and each set the brand 
+	automatically when initiated
+	var bmw = new BMW(year)
+  
+=================================================================
