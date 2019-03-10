@@ -53,6 +53,13 @@ De adaugat o categ la main homepage numita AWS, unde scrii tot ce ai invatat des
     
 - Table can be replaced with a tree component - https://material.angular.io/components/tree/overview
     - expanding // again bootstrap rows and cols
+    Cand nu e full hd rezolutie
+
+Ai pus textu chevron right si asa randeaza
+As incepe really simple no icons, just to see that it shows exactly like their example tree
+Apoi as rafina
+Daca te arunci la prea mult deodata, si icons, si functionality tree, si links etc, e demoralizant, take it slow
+Ai pus textu chevron ca string nu ca variabila, ala trb sa evalueze, check their sample code
     
 - Further skills to add once practiced - devops - docker / dynamodb / aws cli (deploy site to S3 with cli)
 
