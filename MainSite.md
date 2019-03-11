@@ -70,9 +70,9 @@ La c sharp theory
 - serializare cu newtonsoft. Te uiti in cod si scrii procesul, ce clase/metode is folosite cand (de)serializezi
 - Tot acolo sa faci sectie de programming principles unde nu e language specific, but stuff that applies to all languages.              - Acolo intra sahami stuff
 
-Sa faci si sectiune pe own website la theorycrafting cu "Object Oriented Programming Principles"
-        - OOP - inheritance - class implementing an interface
-              - polymorphism - for example arrays of objects derived from the same interface
+Sa faci si sectiune pe own website la theorycrafting cu "Object Oriented Programming Principles" OOP
+- inheritance - class implementing an interface
+- polymorphism - for example arrays of objects derived from the same interface
     
 -------------
 
