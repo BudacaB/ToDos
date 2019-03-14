@@ -87,3 +87,9 @@ Car - add color, cylinder number (min 1 / max...)
 	var bmw = new BMW(year)
   
 =================================================================
+
+- Nba Card - make inheritance from Card for example - inherit and override a method ShowCard() - (which type)
+	- also make an Nfl Card same ^
+- Car Win Forms - make another class Lancia - have base class ShowBrand() method - inherit and override per case
+	- change if to switch
+- Do array and iterate through to see outputs for ShowCard() and ShowBrand() per case
