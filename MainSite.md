@@ -76,3 +76,19 @@ Sa faci si sectiune pe own website la theorycrafting cu "Object Oriented Program
     
 -------------
 
+incearca sa faci asta: 
+cerinta e asa: 
+
+primul row -ala de top skills/contact/langs, sa arate:
+1) asa cum e acum, pe full monitor. 
+2) daca is pe telefon mobile, sa se mute "contact" sub "top skills" - de ce asa? pt ca atunci contentu ramane inteligibil
+
+hint: poti folosi mai multe clase pe un html element, nu e musai sa aiba doar un "col" singuratic. poti avea class="aa bb cc"
+
+also, legat de languages - "advanced" doesnt really say that much. 
+modifica la english , in functie de cum te simti , e una din doua: 
+a) "professional working proficiency"
+sau
+b) "native/bilingual proficiency"
+
+also, in germana: ei inteleg mult mai bine daca scrii concret ce nivel de germana. ei au A, B, C. tu acum esti A1 (Anfänger)
