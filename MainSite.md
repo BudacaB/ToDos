@@ -75,3 +75,16 @@ Sa faci si sectiune pe own website la theorycrafting cu "Object Oriented Program
 - polymorphism - for example arrays of objects derived from the same interface
     
 -------------
+https://angular.io/guide/deployment
+-------------
+
+- AWS dynamic header
+
+- Move trees content to aws lambda - all text/data received through json on component load and tree to initialize and render - foreach json property -> new tree branch etc
+	- text to be in DB - FE just renders what's there
+	- just log in to AWS to change text / or use winforms app interface
+
+
+https://aws.amazon.com/getting-started/tutorials/run-serverless-code/
+
+--------------
