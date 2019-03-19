@@ -88,3 +88,7 @@ https://angular.io/guide/deployment
 https://aws.amazon.com/getting-started/tutorials/run-serverless-code/
 
 --------------
+
+New categ c# projects - console apps /winforms apps/etc
+
+Replace wargame with nba
