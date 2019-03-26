@@ -97,3 +97,10 @@ Car - add color, cylinder number (min 1 / max...)
 https://www.c-sharpcorner.com/UploadFile/ff2f08/understanding-polymorphism-in-C-Sharp/
 
 =================================================================
+
+Winforms:
+
+- Add another selection for model type - sportcoupe, sedan, SUV
+- When hitting final button - display price - which will vary based on brand, model type etc.
+
+=================================================================
