@@ -1,0 +1,8 @@
+1) complete the winforms requirement u got today, so that you complete that app
+
+2) update CV cu AWS Lambda/ API Gateway knowledge: 
+    2.a) finish the serverless / lambda hello world function in the link I gave you
+    2.b) with that knowledge, make aniother AWS lambda function to serve your static html header
+    2.c) call and inject the html header in all your websites, so that you got the same header everywhere
+
+3) complete NBA App
