@@ -104,4 +104,7 @@ Winforms:
 - When hitting final button - display price - which will vary based on brand, model type etc.
 - Add another button like Submit Final Order, aside from the one for the List
 
+- Hit submit final order -> send to API made in AWS Lambda - receives JSON and returns HTML
+- Format HTML into PDF -> returns PDF file to app - save PDF to HDD locally
+
 =================================================================
