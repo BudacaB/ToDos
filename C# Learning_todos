@@ -102,5 +102,6 @@ Winforms:
 
 - Add another selection for model type - sportcoupe, sedan, SUV
 - When hitting final button - display price - which will vary based on brand, model type etc.
+- Add another button like Submit Final Order, aside from the one for the List
 
 =================================================================
