@@ -146,7 +146,9 @@ Homie pierre = new Homie()
 
 andrei.friends = [budak, buha, pierre]
 
-so: have the class ready intr-un nou console project - and some homie objects added in some array, sa zicem vreo 10, cu proprietati populated (nu trb musai sa fie valori reale, gen you can have homies that live in address Kathmandu values are irrelevant - but at least the names)
+so: have the class ready intr-un nou console project - and some homie objects added in some array, sa zicem vreo 10, 
+cu proprietati populated (nu trb musai sa fie valori reale, gen you can have homies that live in address Kathmandu 
+values are irrelevant - but at least the names)
 
 se poate face si un pic mai complex gen proprietatea address a clasei Homie, sa nu fie pur si simplu : 
 
