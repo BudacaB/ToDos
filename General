@@ -6,3 +6,17 @@
     2.c) call and inject the html header in all your websites, so that you got the same header everywhere
 
 3) complete NBA App
+
+============================
+
+1) stuff you can do yourself now:
+1.a) JS course
+1.b) the Homies class exercise
+1.c) send me the current status of nba app si iti dau eu exercitii doable, cu complexitate graduala so that you can actually do them.
+
+
+2) stuff you will pause for now:
+2.a) pause winforms app (needs 1.b as prerequisite first, to be able to advance with winforms app)
+2.b) pause aws lambda (needs an intro in one of our lessons, ca nu e ceva tocmai usor)
+2.c) pause main site header (needs practice with aws lambda first - 2.b as prerequisite)
+2.d) pause react course for now, pt ca it morphed into a redux course, and you need to feel more comfortable cu prima parte a cursului aluia, cea de react, before u dive into redux
