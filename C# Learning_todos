@@ -108,3 +108,60 @@ Winforms:
 - Format HTML into PDF -> returns PDF file to app - save PDF to HDD locally
 
 =================================================================
+
+pt data viitoare (am zis ca facem o sedinta de c# ca sa invatati un concept nou, ceva ce veti folosi zilnic ca developeri in c#, 
+cand lucrati cu arrays de obiecte) - ca sa nu pierdem timpu la lectie, faceti voi urmatoarea chestie, 
+so that when we start the lesson, we open this new project and already have all we need, to save time:
+
+ 
+- write a new class called Homie , si reprezinta gen toti prietenii nostri de acasa si imprejurimi. 
+
+
+clasa va avea proprietati precum: 
+
+- adresa
+
+- firstname
+
+- lastname
+
+- age
+
+- friends: array of the same Homie object types - adica cei mai apropiati prieteni ai unui Homie. 
+
+
+
+ceea ce inseamna ca daca fac objectu: 
+
+
+Homie andrei  = new Homie()
+
+Homie budak = new Homie()
+
+Homie buha = new Homie()
+
+Homie pierre = new Homie()
+
+
+
+andrei.friends = [budak, buha, pierre]
+
+so: have the class ready intr-un nou console project - and some homie objects added in some array, sa zicem vreo 10, cu proprietati populated (nu trb musai sa fie valori reale, gen you can have homies that live in address Kathmandu values are irrelevant - but at least the names)
+
+se poate face si un pic mai complex gen proprietatea address a clasei Homie, sa nu fie pur si simplu : 
+
+string address 
+
+
+
+... ci sa fie o clasa de tip HomieAddress:
+
+class HomieAddress {
+  
+string country
+   
+string city
+
+}
+
+
