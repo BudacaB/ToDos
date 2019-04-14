@@ -96,3 +96,9 @@ Replace wargame with nba
 Replace "My Apps" static text with name
 
 Reduce margin/padding between subitems from top skills, contact,  etc.
+
+--------------
+
+Add Linq
+
+--------------
